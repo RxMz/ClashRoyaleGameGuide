@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82b1ff">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="X-BOW"
+                android:layout_gravity="center"
+                android:textColor="#3949ab"
+                android:textSize="30dp"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/xbowcard"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Card Type :- EPIC"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="#0d47a1"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This card is unlockable from the Barbarian Bowl (Arena 3)."
+                android:textSize="20dp"
+                android:textColor="#5c6bc0"
+                android:gravity="center"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="The X-Bow is an excellent defensive building due to its ability to take down large numbers of small troops such as Goblins and Skeletons.
+It can also be used offensively due to its range, being able to out shoot the Crown Tower, making for some extremely humorous battles (13 vs. 8.5 tile range).
+Note that the Mortar can do the same thing to Crown Towers, but dealing very little DPS, and distributing Area Damage.
+The Rocket is an effective counter to the X-Bow. Its high damage and its capability to be placed anywhere can easily take out a large portion of the X-Bow's hitpoints.
+In addition, you will have ample time to prepare for the X-Bow, as it takes 5 seconds to deploy. Overpower it with building-targeting troops, like Giants and Hog Riders, and back them up with Archers or Spear Goblins. Together, they will take down the X-Bow quickly, before it can target your Crown Tower.
+An X-Bow backed up with some support troops, such as Spear Goblins, can effectively destroy a Crown Tower.
+High hitpoint troops, such as Giants, can distract enemy troops/Buildings, allowing an X-Bow to safely target, and attack the opposing Crown Tower or enemy troops, while the tank takes all the damage.
+When dealing with an offensively placed X-Bow, it's quite effective to deploy a Musketeer behind the river/chasm while the X-Bow is deploying, taking out a large portion of it's hitpoints before it's ready to fire.
+Placing a rage spell on a X-Bow will increase its hit speed, rapidly damaging the the target.
+Note that this strategy works best on crown towers, since they are defenseless."
+                android:textSize="20dp"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#448aff"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:padding="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:text="Public rating on this troop "/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff0000"
+                    android:textSize="20dp"
+                    android:text="8.5/10"/>
+            </LinearLayout>
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id">
+            </com.google.android.gms.ads.AdView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

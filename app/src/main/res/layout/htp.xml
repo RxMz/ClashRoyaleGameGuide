@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82b1ff">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How to play!"
+                android:textSize="40dp"
+
+                android:padding="10dp"
+                android:background="#7986cb"
+                android:layout_gravity="center"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/deckbasic"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Players square off against live competition on tiny maps dotted by six buildings; three for each player: two Arena Towers and one King's Tower, respectively.
+The object of the battle is to destroy the other player’s King's Tower (central building) while protecting your own.
+You’ll do this by deploying troops from a deck of cards (drawn from a Battle Deck that you’ve built) anywhere within an allowable area on the field - your territory.
+"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/basicbattle"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Your battle deck is the rotation of cards you wish to have in battle.
+To change these, you must tap the card you wish to add into your battle deck and tap, 'Use', before tapping the card that you would like removed from your battle deck.
+Next to the Battle Deck title, it will display the Average Elixir cost of all your troops. Occasionally, this can come in handy when deciding if your deck is suitable. For example, a deck with an average of 3.5 Elixir that is semi-powerful, is better than a deck with an average of 4.7 that is slightly more powerful, as you will not be able to deploy troops as often to counter enemy offenses and proceed with your offensive strategy.
+The battle deck consists of a maximum of only 8 cards, so you want all your cards to be ones that you will be using, otherwise that is misuse of a valuable card space.
+You can save up to three battle decks using the numbered buttons in the top right corner of the battle deck interface."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="40dp"
+                android:text="WINNING"
+                android:layout_gravity="center"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="20dp"
+                android:text="If you destroy the other player's King's Tower, you win immediately.
+However, it is entirely possible for the player and the opponent to destroy each other's King's Tower at the same time, resulting in a draw.
+If no one is able to take down the King's Tower within the first 2 minutes, you and your opponent's Elixir regeneration speed is doubled.
+If no one is able to take down the King's Tower, or each person has an equal number of towers destroyed after the first 3 minutes, sudden death is enabled, a mode allowing an additional minute in which the next player to destroy a tower wins.
+If no tower is destroyed within the next minute, the game will end with a draw and both players will not gain or lose any of their Trophies."/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

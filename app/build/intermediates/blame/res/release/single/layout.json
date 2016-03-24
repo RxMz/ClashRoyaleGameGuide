@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/skeletonscard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/skeletonscard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/goblinhutcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/goblinhutcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/canoncard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/canoncard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/arrowscard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/arrowscard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/bombercard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/bombercard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/troopcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/troopcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/elixercollectorcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/elixercollectorcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/strategies.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/strategies.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/xbowcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/xbowcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/balloonscard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/balloonscard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/mortarcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/mortarcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/golemcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/golemcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/freezecard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/freezecard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/buildings.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/buildings.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/fireball.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/fireball.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/mirrorcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/mirrorcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/royalgiantcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/royalgiantcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/tombstonecard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/tombstonecard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/teslacard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/teslacard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/ragecard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/ragecard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/goblinscard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/goblinscard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/valkyriecard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/valkyriecard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/dragcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/dragcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/musketeercard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/musketeercard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/rocketcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/rocketcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/faq.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/faq.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/knightcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/knightcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/pekkacard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/pekkacard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/speargoblinscard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/speargoblinscard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/wizardcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/wizardcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/princecard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/princecard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/icewizardcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/icewizardcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/bombtowercard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/bombtowercard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/spellcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/spellcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/minionhcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/minionhcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/barbcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/barbcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/giantcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/giantcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/content_main.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/hogridercard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/hogridercard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/lightningcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/lightningcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/witchcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/witchcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/infernocard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/infernocard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/minionscard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/minionscard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/goblinbarrelcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/goblinbarrelcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/minipekka.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/minipekka.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/princesscard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/princesscard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/barbarianhutcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/barbarianhutcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/htp.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/htp.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/zapcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/zapcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/poisoncard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/poisoncard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/skelarmycard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/skelarmycard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/archerscard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/archerscard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/darkprincecard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/darkprincecard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/giantskelcard.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/src/main/res/layout/giantskelcard.xml"
+    },
+    {
+        "merged": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/home/rishabh/Desktop/Google/GameGuideforClashRoyale/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    }
+]

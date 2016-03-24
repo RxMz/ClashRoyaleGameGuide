@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82b1ff">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GOBLIN BARREL"
+                android:layout_gravity="center"
+                android:textColor="#3949ab"
+                android:textSize="30dp"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/goblinbarrelcard"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This card is unlockable from the Goblin Stadium (Arena 1)."
+                android:textSize="30dp"
+                android:textColor="#ff0000"
+                android:gravity="center"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Card Type :- EPIC"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="#0d47a1"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:text="If there is a Tombstone or Goblin Hut protected behind an Arena tower, the player can use the Goblin Barrel to take them out quickly. First, deploy a Knight or Giant on the side with the Hut, and when the Tower is locked on to your high hitpoint unit, deploy the Goblin Barrel, and they will go to work unhindered.
+Arrows are effectively used to counter Goblin Barrels, before the Goblin Barrel's impact due to the Arrows cast time, to avoid extreme damage done to your Arena Towers and vice versa.
+However, adept players targeting the opponent's Crown Tower, cast the Goblin Barrel in the far corner of the opposing territory, away from the defending player's Arrows instinctively cast on the Crown Tower, and thus, the spawned Goblins can attack the Tower, alive.
+As the description says, it can be fired from anywhere, allowing players to finish off buildings they cannot reach.
+Goblin Barrel can be used to bait the opponents Arrows spell or another spell, allowing the player to swarm their opponent with cards without hindrance from AoE Spells.
+Another way to defend against the goblin barrel is the zap card. its elixer cost is less and depending on its level it can completely destroy the goblins."/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#448aff"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:padding="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:text="Public rating on this troop "/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff0000"
+                    android:textSize="20dp"
+                    android:text="9/10"/>
+            </LinearLayout>
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id">
+            </com.google.android.gms.ads.AdView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

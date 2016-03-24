@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82b1ff">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GIANT SKELETON"
+        android:layout_gravity="center"
+        android:textColor="#3949ab"
+        android:textSize="30dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/giantskelcard"
+        android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Card Type :- EPIC"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="#0d47a1"
+                android:textSize="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text="The Giant Skeleton is effective to use as a meat shield and get enemy units close together, as when its bomb blows up, it will cause most surrounding enemy troops to die.
+The Giant Skeleton is also useful for taking out Crown Towers, as when the bomb explodes upon the Giant Skeleton's death, it will deal a lot of damage to the Tower.
+It is imperative to distract troops that may attack the Giant Skeleton so he can get the giant bomb to the Crown Tower the player is attacking, to deal immense damage.
+The Giant Skeleton can be punishing to large amounts of weak troops because of its bomb. The Inferno Tower is an effective counter, as it can easily take down a Giant Skeleton without a large group of troops, and unnecessary usage of Elixir.
+A strategy for the Giant Skeleton to reach the opponents Crown Towers is to place it first, then placing a Hog Rider behind it. Because the Hog Rider prioritizes buildings, it will push the Giant Skeleton very quickly towards the Crown Tower and also gives aggro to it, allowing the Hog Rider to get free hits while the Giant Skeleton survives."/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#448aff"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:padding="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:text="Public rating on this troop "/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff0000"
+                    android:textSize="20dp"
+                    android:text="8/10"/>
+            </LinearLayout>
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id">
+            </com.google.android.gms.ads.AdView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

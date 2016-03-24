@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.todaysfuture.thegameguideforclashroyale">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <permission android:protectionLevel="signature"
+        android:name="com.parse.starter.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.todaysfuture.thegameguideforclashroyale.permission.C2D_MESSAGE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".troopcard"
+            android:theme="@style/AppTheme"
+            android:label="Troop Cards"/>
+        <activity android:name=".spellcard"
+            android:theme="@style/AppTheme"
+            android:label="Spell Cards"/>
+        <activity android:name=".buildings"
+            android:theme="@style/AppTheme"
+            android:label="Buildings"/>
+        <activity android:name=".htp"
+            android:theme="@style/AppTheme"
+            android:label="How to Play"/>
+        <activity android:name=".faq"
+            android:theme="@style/AppTheme"
+            android:label="Frequently Asked Questions"/>
+        <activity android:name=".Strategies"
+            android:theme="@style/AppTheme"
+            android:label="Strategies"/>
+        <service android:name="com.parse.PushService" />
+        <receiver android:name="com.parse.ParsePushBroadcastReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.parse.push.intent.RECEIVE" />
+                <action android:name="com.parse.push.intent.DELETE" />
+                <action android:name="com.parse.push.intent.OPEN" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.parse.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+                <category android:name="com.todaysfuture.thegameguideforclashroyale" />
+            </intent-filter>
+        </receiver>
+        <meta-data
+            android:name="com.parse.APPLICATION_ID"
+            android:value="g5TCdTIHm94ffHr7nUDBTth6bV4J4OKSkLkw4ds5" />
+        <meta-data
+            android:name="com.parse.CLIENT_KEY"
+            android:value="xkrk88XRrBurTRmYaH6KDzMyHJj1I7loxYtrNAkj" />
+    </application>
+</manifest>

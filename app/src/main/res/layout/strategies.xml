@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82b1ff">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STRATEGIES!"
+        android:padding="10dp"
+        android:background="#7986cb"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="#283593"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:text="How do I get better?"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text="
+Watch TV Royale.
+Watch your losses back.
+Practice with Clanmates in friendly battles"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="How do I win against Prince?"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:text="Whenever the prince is deployed, You shouldnt worry. The easiest way to kill it alone is the Tombstone.
+What I've been doing is dropping a tombstone right in front of the prince. The prince will break the tombstone and the 6 skeletons will come out and kill the prince. Easy and only costs 3 elixir.
+But as you know that many people do not keep tombstone, the best alternative is spear goblin and goblins. They will kill it and still survive.
+The best defence building against it is the tesla due to its high damage."/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:text="How do I win against Baby Dragon?"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Use ranged creeps (preferably not small ones like Minions or Spear Goblins as the Dragon has AoE) or something big that can soak up damage while your Crown Towers finish the dragon off. Musketeer is good because it will still live after the Dragon does.
+The best defense building against the Baby Dragon is the Tesla. The Tesla does not only wipe off the Baby Dragon but also has an amazing amount of health remaining."/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="How do I win against Goblin Barrel?"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="A well-timed Arrow spell will kill off all the Goblins in one hit before they can do any damage. You'll still take about 20 damage from the Barrel impact but that's it. Cheap creeps like Spear Goblins or Archers will also deal with the Barrel but you might take a few 100 damage. Bomber also works well if they've positioned the Barrel off to one side but if they hit your Tower dead centre the Goblins will be separated individually and you'll take some damage.
+A decent alternative will be the Zap Spell as it pauses the goblins for a second which is good enough. You will take some damage but not as much as without the zap. The better part is the you have an advantage of 2 elixer.
+"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="How do I win against Balloon?"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="You need to kill it off before it reaches your tower. Air troops like Minions or Minion Horde are good because they don't get hit by the Balloon, or a strong ranged creep like the Musketeer will do the job."/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="How do I win against Giant + Witch?"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#3d5afe"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Don't try to kill the giant first, but the witch. Anything you drop in front of the giant will be targeting him and he will be tanking the hits. Wait until the witch crosses the bridge and drop a knight beside her (a mini pekka next to the witch should take care of her in two hits). He will make quick work of the witch cheaply. Then use whatever you have and need to kill the giant. You could also use a fireball and do some real additional damage to the witch AND the giant. Basically the witch becomes extremely squishy and you can focus on the giant."/>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:text="Don’t Be Afraid To Wait: "
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text="It can be a tense moment, looking at an open field and waiting for your opponent to attack. It’s even tenser if your opponent has some units out there, smashing your towers. You might want to just rush you troops out to stem the bleeding/fill the void, but that’s not always the right decision. A full, concerted attack with complimentary units is often going to be more effective, so wait for it if you can. If you’re in the middle of a fight that you’re winning, however, you might just want to press it.
+"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Don’t Be Afraid To Take Damage:"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text="If you take the King tower, you win. remember that. so maybe you’ve got one tower down, and your troops have moved on to the opponent’s king tower. Meanwhile, your opponent is working on one of your outer towers. Let them! That means their troops will be far away from their King tower, and it’s going to be hard to them to hit yours as quickly as you can hit theirs. So take the hit, even lose the tower. Eyes on the prize.
+"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:text="It's All About Elixer"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text="Clash Royale is a kind of an RTS, and all RTS’s are essentially resource based games. The resource in question here is elixir, and you should be making a lot of your decisions based on that essential concept. If you can use a 4 elixir fireball spell to do 6 elixir worth of damage to enemy troops, do it. If you’re 4 elixir musketeer is just going to get trounced by that pekka backed up by archers, don’t put it out. If your 5 elixir goblin hut can produce more than 5 elixir worth of goblins, put it down. Your opponent is going to have the same amount of elixir as you, and so your challenge is to use that elixir more effectively.
+"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:text="Know your cards!"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:text="This one is pretty obvious, but it’s the most important thing in the game. Learn your cards, and set your deck up to have plenty of sets of complimentary cards. Use ranged units to back up melee units, know which units are better against other units and which are better for damaging towers, know which units are going to be taken out quickly if dropped in the wrong spot. Once you start learning all of their strengths and weaknesses, start building a deck with a lot of complimentary pieces. Make a few and play with them."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:text="Eyes on the Clock!"
+        android:textColor="#000000"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#3d5afe"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="At 60 seconds, elixir starts to fill twice as quickly, and things get a bit hectic. At the end of three minutes, whoever has more crowns wins. If the two players are tied, then the next crown wins. Use all of this to your advantage. Say you’re both working on the King tower when you see the end of the match approaching: you might want to make a sneak attack on one of the outer towers in order to snag an extra crown before the end. There are all sorts of ways to pull out a win, and be aware of which one makes the most sense in any given moment."/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

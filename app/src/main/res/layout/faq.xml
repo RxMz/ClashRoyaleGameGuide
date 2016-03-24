@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82b1ff">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="#7986cb"
+        android:text="FREQUENTLY ASKED QUESTIONS!"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textColor="#283593"/>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:text="Are there any ways to increase the chances of getting a specific card?"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:textColor="#3d5afe"
+        android:gravity="center"
+        android:text="You can drop to a lower arena which should have fewer options for chests to increase your chances."/>
+        <TextView
+            android:layout_marginTop="20dp"
+android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Can you get cards from previous arenas?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:textColor="#3d5afe"
+            android:text="Yes. You can get cards from current arena and any you passed."/>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Is there a way to view stats of a card that is ready for upgrade?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:textColor="#3d5afe"
+            android:text="Tap the card, then tap upgrade. It'll bring up the card info. You actually upgrade the card from the info window. You can also hold down on the card to pull up its stats."/>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="How much Gold do Rares and Epics increase after purchasing them in the shop?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:textColor="#3d5afe"
+            android:text="Commons jump up 1-2 gold sometimes, Rares go from 40 to 56, then 70-something, Epics go from 2,000 to 3,600."/>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Can I select and play in earlier arenas?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="15dp"
+            android:textColor="#3d5afe"
+            android:text="No. Once you graduate out of an arena you cannot play in it again unless you move down an arena by getting demoted."/>
+
+
+
+
+  <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="How does matchmaking work?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#3d5afe"
+            android:gravity="center"
+            android:text="Matchmaking is based purely on trophies, not King Tower level."/>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Why do I see chests from an arena I haven't reached yet?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#3d5afe"
+            android:gravity="center"
+            android:text="The chest you receive is from the best of the two Arenas competing. So if an A5 is fighting an A6, the chest will automatically be from A6."/>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="How often to magical chests drop?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#3d5afe"
+            android:gravity="center"
+            android:text="You get your first one fairly quick, then you get your next one around the 130th chest then the next one at the 200+ chest range, this is subject to change."/>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="If all my chest slots are full, should I keep playing? Will I miss out on anything?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#3d5afe"
+            android:gravity="center"
+            android:text="The sequence order is based on how many chests you've received, not wins. Playing while having full chest slots will let you play for trophy's/fun/xp, and will pause the chest order. So no, playing with full chests will not make you miss any chests. The one drawback to note is that the higher arena you are, the harder it is to open a specific card through chests. So if you need some Arena 1 Epic cards, they'll be harder to get in Arena 2 chests."/>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="Is there anyway to remove chests to make room for others?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#3d5afe"
+            android:gravity="center"
+            android:text="No. They're yours until you open them."/>
+        <TextView
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:text="Is there an order to how the chests drop? How can I tell what chest I will get next?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#3d5afe"
+            android:gravity="center"
+            android:text="If you search you should find posts that have lists of chests. There are people posting that patterns are wrong for them, others are posting they're right. It's possible you're placed somewhere into the list at random."/>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="How can I get a Legendary card? Which chest do they have a higher chances of coming in?"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#3d5afe"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:text="Legendary cards can be in any chest. It all depends on luck. They have a higher chances of coming in Magical and Super Magical chest. This is assuming that you are already in the arena of the legendary card."/>
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="30dp"
+    android:layout_marginBottom="20dp"
+    android:text="Have any other questions? Visit out website and contact us! Website is www.todaysfuture.in"
+    android:layout_gravity="center"
+    android:gravity="center"
+    />
+
+    </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

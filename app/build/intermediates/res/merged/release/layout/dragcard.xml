@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82b1ff">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BABY DRAGON"
+        android:layout_gravity="center"
+        android:textColor="#3949ab"
+        android:textSize="30dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/babydrag"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This card is unlockable from the Training Camp (Tutorial)."
+        android:textSize="30dp"
+        android:textColor="#ff0000"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Card Type :- EPIC"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="#0d47a1"
+                android:textSize="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text="The Baby Dragon is hard to counter, as a flying unit with high hitpoints, but some solutions include, Archers, Spear Goblins, Minions, or an opposing Baby Dragon.
+A tough unit, such as the Giant, can distract the Baby Dragon while supporting it with units such as Archers. This will eventually whittle down the Baby Dragon and will prevent it from attacking your Arena Towers.
+Another counter to the Baby Dragon is the Inferno Tower. Because the Inferno Towers damage intensifies overtime against higher health units, it will take down the Baby Dragon with ease, without taking much damage in return.
+A great counter to the Baby Dragon is Tombstone and Musketeer combo, as while the Baby Dragon is focused on the Tombstone, the Musketeer is able to eliminate the Baby Dragon. The Tombstone must be placed in front of the Musketeer, so that the Baby Dragon targets it. If the opponent places down other troops and the Tombstone is destroyed, use Minions to eliminate the Baby Dragon, and along with the Skeletons spawned upon the Tombstone's destruction and Musketeer, form a counter-offensive.
+The Baby Dragon is very vulnerable to the Tesla. Hence the best way to counter is the Tesla. If placed at the correct place, the Tesla will not only kill the Baby Dragon but also still have half its health."/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/babydragstats"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#448aff"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:padding="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:text="Public rating on this card "/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff0000"
+                    android:textSize="20dp"
+                    android:text="7/10"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

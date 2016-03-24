@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82b1ff">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tombstone"
+                android:layout_gravity="center"
+                android:textColor="#3949ab"
+                android:textSize="30dp"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/tombstonecard"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Card Type :- RARE"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="#0d47a1"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This card is unlockable from the Bone Pit (Arena 2)."
+                android:textSize="20dp"
+                android:textColor="#5c6bc0"
+                android:gravity="center"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="The spawned Skeletons are very good at distracting enemy Cards, such as the P.E.K.K.A., the Prince, the Mini P.E.K.K.A., and the Giant Skeleton.
+You can generate a Tombstone, as with any building, to defend a Tower, spawning it in front of the Tower to defend it , specifically, against cards which target buildings such as Giant and Golem.
+Units that target defenses will easily take them out, due to the facts that they will ignore the Skeletons and the low hitpoints of the Tombstone.
+If an opponent has the Tombstone card, be prepared with AoE (Area of Effect) spell cards (e.g Arrows and Fireball) to destroy the Tombstone.
+When a Tombstone is destroyed, 4 Skeletons (previously 6) are spawned, so AoE damage spells are effective against the spawned Skeleton mass.
+The Tombstone's destruction can also be used in defense against troops, such as a charging Prince. The Tombstone can be placed in the Prince's path, destroying the Building and spawning the 4 Skeletons which then target and overpower the Prince - a neutral Elixir-cost trade: 3 Elixir (Tombstone) for 5 Elixir (Prince).
+In further effectiveness, the Tombstone can be optionally placed towards the center of the defending player's territory, so the Prince is drawn further away from the Crown Tower, and the defending Tower can target the Prince, and in collaboration with the Tombstone, defeat the attacking troop swiftly."
+                android:textSize="20dp"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="#448aff"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:padding="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:text="Public rating on this card "/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ff0000"
+                    android:textSize="20dp"
+                    android:text="7.5/10"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
+
